@@ -1,0 +1,41 @@
+@charset "UTF-8";
+
+	p{
+		 text-decoration: underline;
+		 text-align: center; 
+		 text-indent:20pt;
+		 font-family:helvetica;
+		 font-size: 2.6em; 
+		 line-height: 1em;
+	}
+	h1{
+		 
+		 text-decoration: underline;
+		 text-align: center; 
+		 text-indent:20pt;
+		 font-family:helvetica;
+		 font-size: 4em; 
+		 line-height: 1em;
+	
+		
+	}
+	h2 {
+		
+		text-align: center;
+		font-family: helvetica;
+		font-size: 17pt;
+	}
+	h3 {
+	font-family: helvetica;
+	text-align: center;
+	
+	}	
+	h4 {
+	font-family: helvetica;
+	text-align: center;
+	
+	}
+
+
+
+	

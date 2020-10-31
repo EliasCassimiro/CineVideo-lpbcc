@@ -1,0 +1,19 @@
+.container {
+ height: 400px;
+ width: 300px;
+ background: red;
+ display: flex;
+ justify-content: center;
+ align-items: center
+};
+
+.box {
+ height: 550px;
+ width: 300px;
+ background: red
+};  
+
+.span{
+    color: red;
+    font-size: 18px
+};
